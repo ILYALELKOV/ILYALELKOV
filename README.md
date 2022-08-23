@@ -13,7 +13,7 @@ Beginning FrontEnd developer</h3>
 ![WebStorm](https://img.shields.io/badge/-WebStorm-627ba8?style=for-the-badge&logo=WebStorm&logoColor=333333)
 ![Webpack](https://img.shields.io/badge/-Webpack-627ba8?style=for-the-badge&logo=Webpack&logoColor=000)
 ![React](https://img.shields.io/badge/-React-627ba8?style=for-the-badge&logo=React&logoColor=72c5d8)
-![Google Chrome](https://img.shields.io/badge/-GoogleChrome-627ba8?style=for-the-badge&logo=GoogleChrome&logoColor=a91818)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaLelkov&show_icons=true&theme=tokyonight)
 
