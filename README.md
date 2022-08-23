@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://learnjs.ru/assets/img/journal/javascript.jpeg"/>
+</div>
+
+
 <h1 align="center">Hi there, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">
