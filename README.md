@@ -3,7 +3,7 @@
 <h3 align="center">
 Beginning FrontEnd developer</h3>
 
-<h4>Languages and Tools:</h4>
+<h3>Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-627ba8?style=for-the-badge&logo=JavaScript&logoColor=ffee00)
 ![CSS3](https://img.shields.io/badge/-CSS3-627ba8?style=for-the-badge&logo=CSS3&logoColor=1155cc)
