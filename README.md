@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://learnjs.ru/assets/img/journal/javascript.jpeg"/>
+  <img src="https://miro.medium.com/1*JTVWHBtzlA9P6iKMxCF2yQ.png"/>
 </div>
 
 
