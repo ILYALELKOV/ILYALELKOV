@@ -17,7 +17,7 @@ Beginning FrontEnd Developer</h3>
 ![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=for-the-badge&logo=GitHub&logoColor=000)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1E90FF?style=for-the-badge&logo=WebStorm&logoColor=333333)
 ![Webpack](https://img.shields.io/badge/-Webpack-1E90FF?style=for-the-badge&logo=Webpack&logoColor=000)
-![React](https://img.shields.io/badge/-React-1E90FF?style=for-the-badge&logo=React&logoColor=0000CD)
+![React](https://img.shields.io/badge/-React-1E90FF?style=for-the-badge&logo=React&logoColor=000000)
 
 
 
