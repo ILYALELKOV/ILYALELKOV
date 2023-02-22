@@ -16,12 +16,13 @@ Beginning FrontEnd Developer</h3>
 ![Git](https://img.shields.io/badge/-Git-1E90FF?style=for-the-badge&logo=Git&logoColor=f54d27)
 ![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=for-the-badge&logo=GitHub&logoColor=000)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1E90FF?style=for-the-badge&logo=WebStorm&logoColor=d5ea5c)
+![vscode](https://img.shields.io/badge/-vscode-1E90FF?style=for-the-badge&logo=VisualStudioCode&logoColor=000000)
 ![Webpack](https://img.shields.io/badge/-Webpack-1E90FF?style=for-the-badge&logo=Webpack&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-1E90FF?style=for-the-badge&logo=React&logoColor=000000)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-1E90FF?style=for-the-badge&logo=TailwindCSS&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1E90FF?style=for-the-badge&logo=Bootstrap&logoColor=7532f8)
 ![rollup](https://img.shields.io/badge/-rollup-1E90FF?style=for-the-badge&logo=rollup.js&logoColor=df3335)
-![vscode](https://img.shields.io/badge/-vscode-1E90FF?style=for-the-badge&logo=VisualStudioCode&logoColor=000000)
+
 
 
 
