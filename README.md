@@ -13,7 +13,7 @@ Beginning FrontEnd Developer</h3>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1E90FF?style=for-the-badge&logo=JavaScript&logoColor=ffee00)
 ![CSS3](https://img.shields.io/badge/-CSS3-1E90FF?style=for-the-badge&logo=CSS3&logoColor=1155cc)
 ![HTML5](https://img.shields.io/badge/-HTML5-1E90FF?style=for-the-badge&logo=HTML5&logoColor=d8653e)
-![Git](https://img.shields.io/badge/-Git-1E90FF?style=for-the-badge&logo=Git&logoColor=eea437)
+![Git](https://img.shields.io/badge/-Git-1E90FF?style=for-the-badge&logo=Git&logoColor=f54d27)
 ![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=for-the-badge&logo=GitHub&logoColor=000)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-1E90FF?style=for-the-badge&logo=WebStorm&logoColor=333333)
 ![Webpack](https://img.shields.io/badge/-Webpack-1E90FF?style=for-the-badge&logo=Webpack&logoColor=000)
