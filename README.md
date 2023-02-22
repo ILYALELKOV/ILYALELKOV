@@ -15,8 +15,8 @@ Beginning FrontEnd Developer</h3>
 ![HTML5](https://img.shields.io/badge/-HTML5-1E90FF?style=for-the-badge&logo=HTML5&logoColor=e96228)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?style=for-the-badge&logo=Git&logoColor=f54d27)
 ![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=for-the-badge&logo=GitHub&logoColor=000)
-![WebStorm](https://img.shields.io/badge/-WebStorm-1E90FF?style=for-the-badge&logo=WebStorm&logoColor=333333)
-![Webpack](https://img.shields.io/badge/-Webpack-1E90FF?style=for-the-badge&logo=Webpack&logoColor=6fe59e)
+![WebStorm](https://img.shields.io/badge/-WebStorm-1E90FF?style=for-the-badge&logo=WebStorm&logoColor=6fe59e)
+![Webpack](https://img.shields.io/badge/-Webpack-1E90FF?style=for-the-badge&logo=Webpack&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-1E90FF?style=for-the-badge&logo=React&logoColor=000000)
 
 
