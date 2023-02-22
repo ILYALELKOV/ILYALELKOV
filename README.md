@@ -25,10 +25,6 @@ FrontEnd Developer</h3>
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1E90FF?style=for-the-badge&logo=Bootstrap&logoColor=7532f8)
 
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaLelkov&show_icons=true&theme=dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaLelkov&show_icons=true&theme=transparent)
 
 
