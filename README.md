@@ -11,13 +11,13 @@ Beginning FrontEnd Developer</h3>
 <h3>Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1E90FF?style=for-the-badge&logo=JavaScript&logoColor=ffee00)
-![CSS3](https://img.shields.io/badge/-CSS3-627ba8?style=for-the-badge&logo=CSS3&logoColor=1155cc)
-![HTML5](https://img.shields.io/badge/-HTML5-627ba8?style=for-the-badge&logo=HTML5&logoColor=d8653e)
-![Git](https://img.shields.io/badge/-Git-627ba8?style=for-the-badge&logo=Git&logoColor=eea437)
-![GitHub](https://img.shields.io/badge/-GitHub-627ba8?style=for-the-badge&logo=GitHub&logoColor=000)
-![WebStorm](https://img.shields.io/badge/-WebStorm-627ba8?style=for-the-badge&logo=WebStorm&logoColor=333333)
-![Webpack](https://img.shields.io/badge/-Webpack-627ba8?style=for-the-badge&logo=Webpack&logoColor=000)
-![React](https://img.shields.io/badge/-React-627ba8?style=for-the-badge&logo=React&logoColor=72c5d8)
+![CSS3](https://img.shields.io/badge/-CSS3-1E90FF?style=for-the-badge&logo=CSS3&logoColor=1155cc)
+![HTML5](https://img.shields.io/badge/-HTML5-1E90FF?style=for-the-badge&logo=HTML5&logoColor=d8653e)
+![Git](https://img.shields.io/badge/-Git-1E90FF?style=for-the-badge&logo=Git&logoColor=eea437)
+![GitHub](https://img.shields.io/badge/-GitHub-1E90FF?style=for-the-badge&logo=GitHub&logoColor=000)
+![WebStorm](https://img.shields.io/badge/-WebStorm-1E90FF?style=for-the-badge&logo=WebStorm&logoColor=333333)
+![Webpack](https://img.shields.io/badge/-Webpack-1E90FF?style=for-the-badge&logo=Webpack&logoColor=000)
+![React](https://img.shields.io/badge/-React-1E90FF?style=for-the-badge&logo=React&logoColor=72c5d8)
 
 
 
