@@ -28,6 +28,6 @@ FrontEnd Developer</h3>
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaLelkov&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaLelkov&show_icons=true&theme=dark)
 
 
