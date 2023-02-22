@@ -10,7 +10,7 @@ Beginning FrontEnd Developer</h3>
 
 <h3>Languages and Tools:</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-627ba8?style=for-the-badge&logo=JavaScript&logoColor=ffee00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-#20B2AA?style=for-the-badge&logo=JavaScript&logoColor=ffee00)
 ![CSS3](https://img.shields.io/badge/-CSS3-627ba8?style=for-the-badge&logo=CSS3&logoColor=1155cc)
 ![HTML5](https://img.shields.io/badge/-HTML5-627ba8?style=for-the-badge&logo=HTML5&logoColor=d8653e)
 ![Git](https://img.shields.io/badge/-Git-627ba8?style=for-the-badge&logo=Git&logoColor=eea437)
