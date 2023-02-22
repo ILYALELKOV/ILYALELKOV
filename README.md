@@ -19,7 +19,7 @@ Beginning FrontEnd Developer</h3>
 ![Webpack](https://img.shields.io/badge/-Webpack-1E90FF?style=for-the-badge&logo=Webpack&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-1E90FF?style=for-the-badge&logo=React&logoColor=000000)
 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind CSS-1E90FF?style=for-the-badge&logo=React&logoColor=000000)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-1E90FF?style=for-the-badge&logo=React&logoColor=000000)
 
 
 
