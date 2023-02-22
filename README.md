@@ -21,8 +21,7 @@ Beginning FrontEnd Developer</h3>
 ![Tailwind](https://img.shields.io/badge/-Tailwind-1E90FF?style=for-the-badge&logo=TailwindCSS&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1E90FF?style=for-the-badge&logo=Bootstrap&logoColor=7532f8)
 ![rollup](https://img.shields.io/badge/-rollup-1E90FF?style=for-the-badge&logo=rollup.js&logoColor=df3335)
-
-![vscode](https://img.shields.io/badge/-vscode-1E90FF?style=for-the-badge&logo=VisualStudioCode&logoColor=df3335)
+![vscode](https://img.shields.io/badge/-vscode-1E90FF?style=for-the-badge&logo=VisualStudioCode&logoColor=000000)
 
 
 
