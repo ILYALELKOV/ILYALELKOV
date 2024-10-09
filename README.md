@@ -5,8 +5,7 @@
 
 <h1 align="center">Hi there, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">
-Junior FrontEnd Developer</h3>
+<h3 align="center"> FrontEnd Developer</h3>
 
 <h3>Languages and Tools:</h3>
 
