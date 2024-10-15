@@ -22,6 +22,9 @@
 ![rollup](https://img.shields.io/badge/-rollup-1E90FF?style=for-the-badge&logo=rollup.js&logoColor=df3335)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-1E90FF?style=for-the-badge&logo=TailwindCSS&logoColor=000000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1E90FF?style=for-the-badge&logo=Bootstrap&logoColor=7532f8)
+![Node.js](https://img.shields.io/badge/-Node.js-1E90FF?style=for-the-badge&logo=Node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-1E90FF?style=for-the-badge&logo=Express&logoColor=ffffff)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyaLelkov&show_icons=true&theme=transparent)
