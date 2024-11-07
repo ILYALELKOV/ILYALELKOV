@@ -2,6 +2,10 @@
   <img src="https://miro.medium.com/1*JTVWHBtzlA9P6iKMxCF2yQ.png"/>
 </div>
 
+<div id="header" align="center">
+  <img src="./banner/banner.png"/>
+</div>
+
 
 <h1 align="center">Hi there, I'm Ilya
 <h1 align="center"> FrontEnd Developer</h1>
